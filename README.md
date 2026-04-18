@@ -1,13 +1,13 @@
-# Mini Container Runtime with Kernel Monitoring
+# OS JACKFRUIT PROBLEM
 
 ##  Student Details
-Teammate 1:-
-Name: Syed Obaid Faraz  
-SRN: PES2UG24CS546
-
-Teammate 2:-
-Name: Suryatej V
-SRN: PES2UG24CS541
+ 
+  * Teammate 1:- <br>
+      Name: ROHITH G S  
+      SRN: PES2UG24AM138
+  * Teammate 2:- <br>
+    Name: PAVAN KISHOR M <br>
+    SRN: PES2UG24AM111
 ---
 
 #  Project Overview
